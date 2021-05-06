@@ -3,7 +3,6 @@ package com.devsuperior.dsvendas.service;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.hibernate.loader.plan.build.internal.returns.CollectionFetchableElementCompositeGraph;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
